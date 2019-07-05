@@ -1,5 +1,6 @@
 # Greetings agents!
-@michowler :+9: Bye!
+@michowler :+1: Bye!
+
 @behjieshen :+1: Hello! 
 
 ## Workshops 
