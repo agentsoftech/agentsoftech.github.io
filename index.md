@@ -10,6 +10,6 @@
 
 #### 2019
 - 25/5/2019 (Thursday)
-  - [HTML & CSS] (https://github.com/agentsoftech/AOT_WORSHOP_1-HTML)
+  - [HTML & CSS](https://github.com/agentsoftech/AOT_WORSHOP_1-HTML)
 - 14/6/2019 (Thursday)
-  - [Adobe XD] (https://github.com/agentsoftech/AOT_WORKSHOP_3-Adobe-XD)
+  - [Adobe XD](https://github.com/agentsoftech/AOT_WORKSHOP_3-Adobe-XD)
